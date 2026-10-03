@@ -19,8 +19,6 @@
 
 ## 👋 About
 
-Welcome to the source code behind my personal website. It's the home for my professional experience, open-source projects, published research, bug bounty write-ups, and live stats from my Tor Snowflake proxy.
-
 I'm a security researcher with a passion for cybersecurity and digital privacy. I care about helping people stay as safe as possible online and about responsibly disclosing vulnerabilities to the companies that build the tools we all rely on.
 
 | 🧪 | 🏆 | 📰 | 💼 |
