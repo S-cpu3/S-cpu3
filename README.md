@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align="center">
 
 # 🛡️ Aaron Thomas — Independent Security Researcher
