@@ -5,9 +5,7 @@
 
 ### 6x Hacker Hall of Famer · Privacy Advocate · Tor Snowflake Operator
 
-*Securing billions of users around the world, one vulnerability at a time.*
 
-[![Website](https://img.shields.io/badge/🌐_Live_Site-s--cpu3.github.io-0d1117?style=for-the-badge&labelColor=1f6feb)](https://s-cpu3.github.io/Aarons-Website/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-aaront-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/aaront)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Aarontom-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Aarontom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Thomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-t-2a29aa308/)
@@ -103,7 +101,7 @@ Looking for a researcher for your program or have any questions? I'm open to **p
 📧 **aaront AT wearehackerone DOT com**
 
 
-*Privacy is a fundamental human right, not an option.* 🔐
+*Privacy is a fundamental human right*
 
 © 2026 Aaron Thomas
 
