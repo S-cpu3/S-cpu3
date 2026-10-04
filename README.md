@@ -21,7 +21,7 @@
 
 I'm a security researcher with a passion for cybersecurity and digital privacy. I care about helping people stay as safe as possible online and about responsibly disclosing vulnerabilities to the companies that build the tools we all rely on.
 
-| 🧪 | 🏆 | 📰 | 💼 |
+| 🔒 | 🏆 | 📰 | 💼 |
 |:---:|:---:|:---:|:---:|
 | **20+** | **6x** | **12** | **1+** |
 | Vulnerabilities disclosed | Hacker Halls of Fame | Articles published | Years professional experience |
