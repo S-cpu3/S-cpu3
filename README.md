@@ -99,8 +99,7 @@ Looking for a researcher for your program or have any questions? I'm open to **p
 📧 **aaront AT wearehackerone DOT com**
 
 
-*Privacy is a fundamental human right*
+*Privacy is a fundamental human right and always will be*
 
-© 2026 Aaron Thomas
 
 </div>
