@@ -23,7 +23,7 @@ I'm a security researcher with a passion for cybersecurity and digital privacy. 
 
 | 🔒 | 🏆 | 📰 | 💼 |
 |:---:|:---:|:---:|:---:|
-| **20+** | **6x** | **12** | **1+** |
+| **20+** | **6x** | **12** | **2+** |
 | Vulnerabilities disclosed | Hacker Halls of Fame | Articles published | Years professional experience |
 
 **Focus areas:** `Bug Bounties` · `Linux Security Research` · `Privacy` · `JavaScript`
