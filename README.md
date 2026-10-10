@@ -42,7 +42,7 @@ Responsibly disclosed vulnerabilities and been recognized publicly by:
 |  **Signal** | [Hacker Hall of Fame](https://signal.org/security) |
 |  **U.S. Social Security Administration** | [Hacker Hall of Fame](https://bugcrowd.com/engagements/ssa-vdp/hall_of_fames) |
 |  **Brave Browser** | [Hacker Hall of Fame](https://hackerone.com/brave/thanks) |
-|  **Ente Photos / Ente Auth** | Thanked |
+|  **Ente Photos / Ente Auth / Ente Locker** | Thanked |
 |  **Beli** | Thanked |
 |  **Termius** | Thanked (2x) |
 |  **Meta** | Thanked |
