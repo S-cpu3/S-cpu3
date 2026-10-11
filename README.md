@@ -76,18 +76,15 @@ Live, per-month stats are on the [website](https://s-cpu3.github.io/Aarons-Websi
 
 ---
 
-## 📚 My Articles and Research Papers 
+## 📚 Recommended Reads by Me 
 
 | Date | Title |
 |---|---|
-| Aug 2026 | [Hey Meta, Stop Recording Me: Protecting Your Privacy Against Meta Glasses](https://medium.com/@aaront_60605/hey-meta-stop-recording-me-your-guide-on-protecting-your-privacy-against-meta-glasses-0183ae08a1b5) |
-| Jul 2026 | [The Phish That Looked Like Me: Deconstructing Storm-1747's Attack Chain](https://www.linkedin.com/pulse/phish-looked-like-me-deconstructing-storm-1747s-attack-aaron-thomas--cl0ue/) |
-| Jul 2026 | [PeekList: How Brave's Playlist Bypassed FaceID Protection for Private Tabs](https://medium.com/@aaront_60605/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be) |
-| May 2026 | [iOS Brave Playlist "Open in Private Tab" Bypasses FaceID (HackerOne report)](https://hackerone.com/reports/3693295) |
-| Nov 2025 | [The United States Is Not Ready For Its Next Major Cyberattack](https://www.linkedin.com/pulse/united-states-ready-its-next-major-cyberattack-aaron-thomas--gjawf/) |
-| Oct 2025 | [Protecting Yourself from AD IDs on Your Mobile](https://safeescape.org/protect-yourself-from-ad-ids/) |
-| Sep 2025 | [Big Brother Babysitter: The Carceral Logic of Family Surveillance Apps](https://www.stopspying.org/big-brother-babysitter) |
-| May 2025 | [SpyGuard vs. Stalkerware](https://stopstalkerware.org/2025/05/19/spyguard-vs-stalkerware-detecting-digital-abuse-safely-and-effectively/) |
+| August 2026 | [Hey Meta, Stop Recording Me: Protecting Your Privacy Against Meta Glasses](https://medium.com/@aaront_60605/hey-meta-stop-recording-me-your-guide-on-protecting-your-privacy-against-meta-glasses-0183ae08a1b5) |
+| July 2026 | [PeekList: How Brave's Playlist Bypassed FaceID Protection for Private Tabs](https://medium.com/@aaront_60605/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be) |
+| September 2025 | [Big Brother Babysitter: The Carceral Logic of Family Surveillance Apps](https://www.stopspying.org/big-brother-babysitter) |
+| April 2025 |[The Abuser in Your Pocket: How Stalkerware Threatens Women’s Privacy ](https://safeescape.org/stalkerware-threatens-womens-privacy/)|
+| July 2024 |[Empowering The Silenced: How Encryption Advances Women’s Rights](https://www.linkedin.com/pulse/empowering-silenced-how-encryption-advances-womens-rights-thomas--amqvf/) |
 
 ➡️ **[See all 12 articles on the website](https://s-cpu3.github.io/Aarons-Website/#writing)**
 
