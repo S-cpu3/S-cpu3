@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-I'm a security researcher with a passion for cybersecurity and digital privacy. I care about helping people stay as safe as possible online and about responsibly disclosing vulnerabilities to the companies that build the tools we all rely on.
+I'm a security researcher with a passion for cybersecurity and digital privacy. I care about helping people stay as safe as possible online and about responsibly disclosing vulnerabilities to the companies that build the tools we all rely on. I have also taught 5 high school classes about cybersecurity awareness! 
 
 | 🔒 | 🏆 | 📰 | 💼 |
 |:---:|:---:|:---:|:---:|
@@ -83,7 +83,7 @@ Live, per-month stats are on the [website](https://s-cpu3.github.io/Aarons-Websi
 | August 2026 | [Hey Meta, Stop Recording Me: Protecting Your Privacy Against Meta Glasses](https://medium.com/@aaront_60605/hey-meta-stop-recording-me-your-guide-on-protecting-your-privacy-against-meta-glasses-0183ae08a1b5) |
 | July 2026 | [PeekList: How Brave's Playlist Bypassed FaceID Protection for Private Tabs](https://medium.com/@aaront_60605/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be) |
 | September 2025 | [Big Brother Babysitter: The Carceral Logic of Family Surveillance Apps](https://www.stopspying.org/big-brother-babysitter) |
-| April 2025 |[The Abuser in Your Pocket: How Stalkerware Threatens Women’s Privacy ](https://safeescape.org/stalkerware-threatens-womens-privacy/)|
+| April 2025 |[The Abuser in Your Pocket: How Stalkerware Threatens Women’s Privacy ](https://safeescape.org/stalkerware-threatens-womens-privacy/) - This paper was cited in a public comment letter to the [FTC](https://epic.org/wp-content/uploads/2025/08/EPICetal-FTC-SpyFone-OppoPetition-25-08-19.pdf)|
 | July 2024 |[Empowering The Silenced: How Encryption Advances Women’s Rights](https://www.linkedin.com/pulse/empowering-silenced-how-encryption-advances-womens-rights-thomas--amqvf/) |
 
 ➡️ **[See all 12 articles on the website](https://s-cpu3.github.io/Aarons-Website/#writing)**
