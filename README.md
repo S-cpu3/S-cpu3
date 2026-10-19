@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-I'm a security researcher with a passion for cybersecurity and digital privacy. I care about helping people stay as safe as possible online and about responsibly disclosing vulnerabilities to the companies that build the tools we all rely on. I have also taught 7 high school classes about cybersecurity awareness! 
+I'm a security researcher with a passion for cybersecurity and digital privacy. I care about helping people stay as safe as possible online and about responsibly disclosing vulnerabilities to the companies that build the tools we all rely on. I have taught cybersecurity awareness to 7 highschool classes, including 5 AP courses.
 
 | 🔒 | 🏆 | 📰 | 💼 |
 |:---:|:---:|:---:|:---:|
