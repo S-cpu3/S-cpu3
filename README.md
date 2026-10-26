@@ -36,7 +36,7 @@ Responsibly disclosed vulnerabilities and been recognized publicly by:
 
 | Company | Recognition |
 |---|---|
-|  **Apple** | [Hacker Hall of Fame (2x)](https://support.apple.com/en-us/149034) |
+|  **Apple** | [Hacker Hall of Fame ](https://support.apple.com/en-us/149230) |
 |  **Proton** | [Hacker Hall of Fame](https://proton.me/blog/protonmail-security-contributors) |
 |  **WindscribeVPN** | [Hacker Hall of Fame](https://github.com/Windscribe/iOS-App/releases/tag/v3.14.1) |
 |  **Signal** | [Hacker Hall of Fame](https://signal.org/security) |
