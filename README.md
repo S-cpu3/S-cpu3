@@ -69,7 +69,7 @@ I run a Tor Snowflake proxy to help people bypass censorship and surveillance.
 | Period | People Helped |
 |---|---|
 | **2025** | 61,550 (≈1.4 TB donated to the Tor network) |
-| **2026** (through November) | 110,994 and counting |
+| **2026** (through November 10th) | 110,994 and counting |
 | **All Time Total**| 172,544 and counting |
 
 Live, per-month stats are on the [website](https://s-cpu3.github.io/Aarons-Website/#tor-charts).
