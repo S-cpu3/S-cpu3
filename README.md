@@ -3,7 +3,7 @@
 
 # 🛡️ Aaron Thomas — Independent Security Researcher
 
-### 6x Hacker Hall of Famer · Privacy Advocate · Tor Snowflake Operator
+### 7x Hacker Hall of Famer · Privacy Advocate · Tor Snowflake Operator
 
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-aaront-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/aaront)
@@ -32,10 +32,11 @@ I'm a security researcher with a passion for cybersecurity and digital privacy. 
 
 ## 🏆 Hacker Hall of Fame & Acknowledgments
 
-Responsibly disclosed vulnerabilities and been recognized publicly by:
+Responsibly disclosed vulnerabilities and been recognized publicly by: 
 
 | Company | Recognition |
 |---|---|
+|  **Defense Nuclear Facilities Safety Board** | [Hacker Hall of Fame ](https://bugcrowd.com/engagements/dnfsb-vdp/hall_of_fames)|
 |  **Apple** | [Hacker Hall of Fame ](https://support.apple.com/en-us/149230) |
 |  **Proton** | [Hacker Hall of Fame](https://proton.me/blog/protonmail-security-contributors) |
 |  **WindscribeVPN** | [Hacker Hall of Fame](https://github.com/Windscribe/iOS-App/releases/tag/v3.14.1) |
