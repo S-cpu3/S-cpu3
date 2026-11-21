@@ -9,7 +9,8 @@
 [![HackerOne](https://img.shields.io/badge/HackerOne-aaront-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/aaront)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Aaront-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Aaront)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Thomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-t-2a29aa308/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@aarontom5-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/aarontom5.bsky.social)
+[![Twitter](https://img.shields.io/badge/X-@aaronntom-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aaronntom)
+
 
 **[🚀 Visit the Website](https://s-cpu3.github.io/Aarons-Website/)** · **[📝 Read the Blog](https://s-cpu3.github.io/Aarons-Website/blog.html)** · **[📬 Get in Touch](https://s-cpu3.github.io/Aarons-Website/#contact)**
 
