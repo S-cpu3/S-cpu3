@@ -37,6 +37,7 @@ Responsibly disclosed vulnerabilities and been recognized publicly by:
 
 | Company | Recognition |
 |---|---|
+|  **Proton** | [CVE-2026-126605 ](https://www.cve.org/CVERecord?id=CVE-2026-126605)|
 |  **Defense Nuclear Facilities Safety Board** | [Hacker Hall of Fame ](https://bugcrowd.com/engagements/dnfsb-vdp/hall_of_fames)|
 |  **Apple** | [Hacker Hall of Fame ](https://support.apple.com/en-us/149230) |
 |  **Proton** | [Hacker Hall of Fame](https://proton.me/blog/protonmail-security-contributors) |
